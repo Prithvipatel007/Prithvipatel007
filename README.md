@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <div id="header" align="center">
   <!--img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="500"/-->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
@@ -132,3 +136,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
