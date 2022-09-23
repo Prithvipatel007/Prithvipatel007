@@ -14,3 +14,8 @@
   <a href="https://www.youtube.com/channel/UCyAlHuEy6WdkLeallgsnOyA"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="30" width="100" alt="Youtube Badge"></a>
 </p>
 </div>
+
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prithvipatel007&style=flat-square&color=blue" alt=""/>
+</div>
