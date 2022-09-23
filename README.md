@@ -22,7 +22,7 @@
 
 <div id="header" align="center">
   
-## Hi there, I am Prithvi Patel (aka Gray Programmer) 👋
+## Introducting Prithvi Patel (aka the Gray Programmer) 👋
   
 </div>
 
