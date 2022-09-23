@@ -4,7 +4,7 @@
 </div>
 <div id="header" align="center">
   
-# Hi there, Prithvi Patel (also known as Gray Programmer) 👋
+## Hi there, Prithvi Patel (also known as Gray Programmer) 👋
   
 </div>
 <div align=center>
