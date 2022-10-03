@@ -131,7 +131,6 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Test1](https://dev.to/prithvipatel007/test1-38ml)
 - [Getting started with Self-Learning for Programmers](https://dev.to/prithvipatel007/getting-started-with-self-learning-for-programmers-34jj)
 <!-- BLOG-POST-LIST:END -->
 
