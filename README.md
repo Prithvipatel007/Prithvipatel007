@@ -131,7 +131,7 @@
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting started with Self-Learning for Programmers](https://forem.com/prithvipatel007/getting-started-with-self-learning-for-programmers-34jj)
+- [Getting started with Self-Learning for Programmers](https://dev.to/prithvipatel007/getting-started-with-self-learning-for-programmers-34jj)
 <!-- BLOG-POST-LIST:END -->
 
 
